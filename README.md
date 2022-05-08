@@ -1,9 +1,11 @@
 # Yves G.
-I'm Yves, Front-end ReactJS developper, from France and living in Montpellier 🌴. 
+
+I'm Yves, Front-end ReactJS developper, from France and living in Montpellier 🌴.
 
 <!--
 **Webnume/Webnume**  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on GitHub profile.
 -->
+
 Actually:
 
 - 🔭 I’m currently working on ReactJS every day ...
@@ -28,7 +30,7 @@ Actually:
       src="https://webnumerik.vercel.app/logo.svg"
     />
   </a>
- 
+
 
 ### Connect with me:
 
@@ -50,7 +52,6 @@ Actually:
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][website]
 
-
 <br />
 <br />
 
@@ -60,10 +61,12 @@ Actually:
   graph TD;
       Code-->Eat;
       Eat-->Sleep;
-      Sleep-->Code;
+      Sleep-->Learn;
+      Learn-->Code;
 ```
 
 ### 🔥 Recent GitHub Activity
+
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
@@ -71,8 +74,5 @@ Actually:
 ### ⭐ GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webnume&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/Webnume?tab=repositories)
-
-
-
 
 [website]: https://webnumerik.fr
